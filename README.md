@@ -1,11 +1,12 @@
-# Hello all ☺
+## Hello there 
 
-* I'm trying to create a management system for a pharmacy
+<b> I'm trying to create a management system for a pharmacy</b>
 
-It's must contain :
+<ul>It's must contain :
 
-• Accounts manager
-• produits 
-• stock
-• sells
+<li>Accounts manager</li>
+<li>produits</li> 
+<li>stock</li>
+<li>sells</li>
+</ul>
  
